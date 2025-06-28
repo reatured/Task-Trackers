@@ -17,7 +17,7 @@ A simple React application to help you manage your daily tasks. You can add, vie
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/reatured/Task-Trackers.git
    cd Task-Trackers
    ```
 2. Install dependencies:
