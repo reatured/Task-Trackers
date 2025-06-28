@@ -1,34 +1,22 @@
 {
   "tasks": [
     {
-      "id": "2",
-      "text": "Meeting at School",
-      "day": "Feb 6th at 1:30pm",
-      "reminder": false
-    },
-    {
-      "id": "e9d0",
-      "text": "Kiss",
-      "day": "Tomorrow",
-      "reminder": false
-    },
-    {
-      "id": "8f4f",
-      "text": "Play",
-      "day": "Yesterday",
-      "reminder": false
-    },
-    {
-      "id": "85b0",
-      "text": "Kill them all",
-      "day": "Next Month",
+      "id": "0838",
+      "text": "Breakfast ",
+      "day": "Apr 10th, 8:00 am",
       "reminder": true
     },
     {
-      "id": "a8ab",
-      "text": "Drink",
-      "day": "Tonight",
+      "id": "511c",
+      "text": "Working Hour",
+      "day": "Apr 10th, 9:00 am",
       "reminder": true
+    },
+    {
+      "id": "0268",
+      "text": "lunch ",
+      "day": "Apr 10th, 12:00 pm",
+      "reminder": false
     }
   ]
 }

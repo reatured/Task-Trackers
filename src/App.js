@@ -45,8 +45,8 @@ function App() {
     // setTasks([...tasks, newTask])
     const res = await fetch(`http://localhost:4900/tasks`, {
       method: 'POST',
-      header: {
-        'Content-type': 'application.json'
+      headers: {
+        'Content-type': 'application/json'
       },
       body: JSON.stringify(task)
     })
